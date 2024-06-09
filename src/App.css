@@ -1,0 +1,64 @@
+body {
+  /* font-family: "Lateef", serif;
+  font-weight: 700;
+  font-style: normal; */
+  font-family: "El Messiri", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  direction: rtl;
+
+  background-image: url("img/bg.jpg") !important;
+
+  background-repeat: no-repeat;
+
+  color: white;
+}
+.title {
+  font-size: 60px !important;
+}
+.selCity {
+  background-color: #ffffff24;
+  color: white;
+}
+.counter {
+  background-color: #0000052e;
+}
+
+th,
+td {
+  background-color: #0a1b2b1c !important;
+  color: white !important;
+  border: none;
+}
+.tt {
+  background-color: #040e3567 !important;
+}
+tr:nth-child(even) {
+  background-color: #040e3567 !important;
+}
+
+select option {
+  background-color: #0b0f17;
+}
+
+.col {
+  padding-right: 4px;
+  margin-top: 5px;
+}
+
+.reg {
+  height: 190px;
+  width: 190px;
+  background-color: #01051c80;
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+}
+.cir {
+  text-align: center !important;
+}
+.T {
+  margin-top: 50px !important;
+}
